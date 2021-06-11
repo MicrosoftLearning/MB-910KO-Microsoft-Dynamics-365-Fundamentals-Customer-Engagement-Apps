@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '데모: 비용 관리'
     module: '모듈 5: Dynamics 365 Project Operations의 기본 사항 파악'

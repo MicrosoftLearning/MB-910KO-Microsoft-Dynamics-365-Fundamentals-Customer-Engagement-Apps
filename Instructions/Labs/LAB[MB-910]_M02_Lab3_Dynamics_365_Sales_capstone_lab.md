@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 2.3: Dynamics 365 Sales 과정 수료 랩'
     module: '모듈 2: Dynamics 365 Sales의 기본 사항 파악'

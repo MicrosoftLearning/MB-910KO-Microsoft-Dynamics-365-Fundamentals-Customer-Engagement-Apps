@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 5.3: Dynamics 365 Project Operations 과정 수료 랩'
     module: '모듈 5: Dynamics 365 Project Operations의 기본 사항 파악'

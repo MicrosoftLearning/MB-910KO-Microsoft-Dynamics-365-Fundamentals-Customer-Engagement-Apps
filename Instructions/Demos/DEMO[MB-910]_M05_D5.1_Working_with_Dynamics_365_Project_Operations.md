@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '데모: Dynamics 365 Project Operations 사용'
     module: '모듈 5: Dynamics 365 Project Operations의 기본 사항 파악'

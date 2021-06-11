@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 1.5: Dynamics 365 Marketing에서 세그먼트 만들기'
     module: '모듈 1: Dynamics 365 Marketing의 기본 사항 파악'

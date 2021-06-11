@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 3.3: Dynamics 365 Customer Service 캡스톤 랩'
     module: '모듈 3: Dynamics 365 Customer Service의 기본 사항 파악'

@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '데모: Dynamics 365 Marketing 사용'
     module: '모듈 1: Dynamics 365 Marketing의 기본 사항 파악'

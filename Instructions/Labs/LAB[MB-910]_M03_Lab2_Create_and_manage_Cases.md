@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 3.2: Dynamics 365 Customer Service에서 서비스 케이스 만들기 및 관리'
     module: '모듈 3: Dynamics 365 Customer Service의 기본 사항 파악'

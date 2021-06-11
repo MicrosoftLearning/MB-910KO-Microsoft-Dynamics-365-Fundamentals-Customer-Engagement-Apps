@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '데모: Dynamics 365 Sales 사용'
     module: '모듈 2: Dynamics 365 Sales의 기본 사항 파악'

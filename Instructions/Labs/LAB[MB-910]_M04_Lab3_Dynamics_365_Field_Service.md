@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 4.3: Dynamics 365 Field Service 캡스톤 랩'
     module: '모듈 4: Dynamics 365 Field Service의 기본 사항 파악'

@@ -22,7 +22,7 @@ lab:
 
 이 연습에서는 Dynamics 365 홈 화면을 사용하여 다양한 Dynamics 365 Customer Engagement 애플리케이션에 액세스하는 방법을 파악합니다. 
 
-1. 웹 브라우저에서 **[https://home.dynamics.com](https://home.dynamics.com/)**으로 이동합니다. 액세스할 수 있는 모든 애플리케이션이 표시됩니다. 
+1. 웹 브라우저에서 **[https://home.dynamics.com](https://home.dynamics.com/)** 으로 이동합니다. 액세스할 수 있는 모든 애플리케이션이 표시됩니다. 
 
 2. 표시되는 애플리케이션 수를 줄이려면 더 많은 앱 가져오기 단추 옆에 있는 **필터 아이콘**을 선택합니다. 
 

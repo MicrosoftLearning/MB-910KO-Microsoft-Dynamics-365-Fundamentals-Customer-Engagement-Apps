@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 1.3: 고객 및 활동 관리'
     module: '모듈 1: Dynamics 365 Marketing의 기본 사항 파악'

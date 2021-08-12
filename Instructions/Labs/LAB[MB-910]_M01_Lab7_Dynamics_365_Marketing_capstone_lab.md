@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 1.7: Dynamics 365 Marketing 과정 수료 랩'
     module: '모듈 1: Dynamics 365 Marketing의 기본 사항 파악'

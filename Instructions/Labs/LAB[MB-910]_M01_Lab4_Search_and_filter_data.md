@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 1.4: 데이터 검색 및 필터링'
     module: '모듈 1: Dynamics 365 Marketing의 기본 사항 파악'

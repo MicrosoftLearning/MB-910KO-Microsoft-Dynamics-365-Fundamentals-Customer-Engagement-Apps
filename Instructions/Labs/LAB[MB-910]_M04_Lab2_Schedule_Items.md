@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 4.2: Dynamics 365 Field Service에서 항목 예약'
     module: '모듈 4: Dynamics 365 Field Service의 기본 사항 파악'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 5.2: 프로젝트 기반 영업 기회 관리'
     module: '모듈 5: Dynamics 365 Project Operations의 기본 사항 파악'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 3.1: Dynamics 365 Customer Service에서 참조 문서 만들기 및 게시'
     module: '모듈 3: Dynamics 365 Customer Service의 기본 사항 파악'

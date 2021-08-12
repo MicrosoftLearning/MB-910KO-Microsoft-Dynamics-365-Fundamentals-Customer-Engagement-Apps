@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 5.1: 프로젝트 기반 잠재 고객 만들기'
     module: '모듈 5: Dynamics 365 Project Operations의 기본 사항 파악'

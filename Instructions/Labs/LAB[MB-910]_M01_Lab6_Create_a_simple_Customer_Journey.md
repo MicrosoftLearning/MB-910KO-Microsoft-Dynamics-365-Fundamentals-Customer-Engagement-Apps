@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 1.6: 간단한 고객 여정 만들기'
     module: '모듈 1: Dynamics 365 Marketing의 기본 사항 파악'

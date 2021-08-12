@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 2.2: Dynamics 365 Sales에서 영업 기회 만들기 및 관리'
     module: '모듈 2: Dynamics 365 Sales의 기본 사항 파악'
